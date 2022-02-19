@@ -80,7 +80,7 @@ I am Smoothest and Fastest Telegram Group Management bot. You can find my list o
 """
 
 G_START_TEXT = """
-Hello Sir I Am Online
+Samurai Bot is alive
 Uptime - {}!
 """
 
@@ -124,7 +124,7 @@ CHAT_SETTINGS = {}
 USER_SETTINGS = {}
 
 for module_name in ALL_MODULES:
-    imported_module = importlib.import_module("LegendRobot.modules." + module_name)
+    imported_module = importlib.import_module("samurai.modules." + module_name)
     if not hasattr(imported_module, "__mod_name__"):
         imported_module.__mod_name__ = imported_module.__name__
 
@@ -228,7 +228,7 @@ def start(update: Update, context: CallbackContext):
                     [
                         [
                             InlineKeyboardButton(
-                                text="ADD ME IN YOUR GROUP ⚡️",
+                                text="ADD ME IN YOUR GROUP 🕷️",
                                 url="t.me/{}?startgroup=true".format(
                                     context.bot.username
                                 ),
@@ -241,7 +241,7 @@ def start(update: Update, context: CallbackContext):
                             ),
                             InlineKeyboardButton(
                                 text="UPDATES ⚡️",
-                                url="https://t.me/Official_LegendBot",
+                                url="https://@Ronin_Fighters_Fc",
                             ),
                         ],
                         [
