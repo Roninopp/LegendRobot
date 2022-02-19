@@ -237,7 +237,7 @@ def start(update: Update, context: CallbackContext):
                         [
                             InlineKeyboardButton(
                                 text="SUPPORT ⚡️",
-                                url=f"https://t.me/{SUPPORT_CHAT}",
+                                url=f"https://t.me/Ronin_Fighters_fc",
                             ),
                             InlineKeyboardButton(
                                 text="UPDATES ⚡️",
@@ -247,7 +247,7 @@ def start(update: Update, context: CallbackContext):
                         [
                             InlineKeyboardButton(
                                 text="SOURCE CODE ⚡️",
-                                url="https://github.com/LEGEND-OS/LegendRobot",
+                                url="https://github.com/Roninopp/LegendRobot",
                             ),
                         ],
                     ]
