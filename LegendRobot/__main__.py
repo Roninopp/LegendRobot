@@ -88,7 +88,7 @@ HELP_STRINGS = """
 Hey there! My name is *{}*.
 I Can Help U To Manage Ur Group Have a look at the following for an idea of some of the things I can help you with.
 
-*Main* commands available:
+*Main* commands available of samurai:
  • /help: PM's you this message.
  • /help <module name>: PM's you info about that module.
  • /donate: information on how to donate!
