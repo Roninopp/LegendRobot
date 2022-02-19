@@ -106,11 +106,11 @@ And the following:
 
 LegendRobot_IMG = START_IMAGE
 
-LegendRobotG_IMG = "https://telegra.ph/file/e575d1148171cc81c62f3.jpg"
+LegendRobotG_IMG = "https://te.legra.ph/file/7e2fe426ac2dc50b56ad4.mp4"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
- You can support the project by contacting [LegendBoy](https://t.me/The_LegendBoy)..
- Those who cannot provide monetary support are welcome to help us develop the bot at @Legend_Userbot.
+ You can support the project by contacting [samurai](https://@Ronin_Fighters_Fc)..
+ Those who cannot provide monetary support are welcome to help us develop the bot at @RONIN_FIGHTERS_FC.
  """
 
 IMPORTED = {}
