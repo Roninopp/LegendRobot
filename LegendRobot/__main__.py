@@ -246,8 +246,8 @@ def start(update: Update, context: CallbackContext):
                         ],
                         [
                             InlineKeyboardButton(
-                                text="SOURCE CODE ⚡️",
-                                url="https://github.com/Roninopp/LegendRobot",
+                               
+                   
                             ),
                         ],
                     ]
