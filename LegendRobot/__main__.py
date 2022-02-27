@@ -80,7 +80,7 @@ I am Smoothest and Fastest Telegram Group Management bot. You can find my list o
 """
 
 G_START_TEXT = """
-Samurai Bot is alive
+ Bot is alive
 Uptime - {}!
 """
 
